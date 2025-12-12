@@ -1,0 +1,29 @@
+{
+  "name": "react-styled-components-lesson",
+  "version": "1.0.0",
+  "description": "React Styled Components Learning Project",
+  "main": "src/components.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["react", "styled-components", "learning", "education"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "@babel/preset-react": "^7.22.0",
+    "@testing-library/jest-dom": "^6.1.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "babel-plugin-styled-components": "^2.1.0"
+  }
+}
